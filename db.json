@@ -1,0 +1,27 @@
+{
+  "reviews": [
+    {
+      "recipeId": 146557,
+      "userId": "114256682583247999755",
+      "userName": "somesh",
+      "createdOn": "01/07/2020",
+      "review": "updated",
+      "id": 1
+    },
+    {
+      "recipeId": 101032,
+      "userId": "114256682583247999755",
+      "userName": "somesh",
+      "createdOn": "03/07/2020",
+      "review": "yummy...",
+      "id": 2
+    }
+  ],
+  "likes": [
+    {
+      "recipeId": 146557,
+      "userId": "114256682583247999755",
+      "id": 1
+    }
+  ]
+}
